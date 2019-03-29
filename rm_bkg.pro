@@ -2,9 +2,9 @@ PRO rm_bkg
 
 ;;;;UDPATE HERE;;;;
 ;useful directories
-rawdir = '/net/jovan/export/jovan/oelkerrj/FFI/sector03/raw/' ; direcotry where the calibrated images live
-clndir =  './'; direcotry where the cleaned images should output to
-cdedir = '/home/oelkerrj/FFI/code/testing/bkg/' ; directory where the code lives
+rawdir = '...' ; direcotry where the calibrated images live
+clndir = '...' ; direcotry where the cleaned images should output to
+cdedir = '...' ; directory where the code lives
 
 camera = '1';what camera?
 ccd = '1';what ccd?
